@@ -1,0 +1,7 @@
+name = "AnalyticPulses"
+uuid = "eb27ae5b-ba0a-4633-8ae7-339e2c8a5cc6"
+authors = ["Kyle Sherbert <kyle.sherbert@vt.edu> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
