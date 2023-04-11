@@ -1,5 +1,7 @@
 module AnalyticPulses
 
-# Write your package code here.
+    module OneQubitSquarePulses
+        include("OneQubitSquarePulses.jl")
+    end
 
 end
